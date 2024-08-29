@@ -1,0 +1,3 @@
+# virtual and local environment
+.venv
+.env
